@@ -3,6 +3,7 @@ package certstore
 import (
 	"crypto"
 	"crypto/x509"
+	"fmt"
 	"math/big"
 
 	"github.com/ThalesIgnite/crypto11"
@@ -25,6 +26,7 @@ type linuxIdent struct {
 
 // Implement this function, just to silence other compiler errors.
 func openStore() (*linuxStore, error) {
+	fmt.Println("awoo")
 	slot := 1
 	config := &crypto11.Config{
 		Path:       "/usr/lib/x86_64-linux-gnu/pkcs11/opensc-pkcs11.so",
