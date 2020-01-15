@@ -1,6 +1,9 @@
 github.com/ThalesIgnite/crypto11 v1.2.1 h1:KxAScWrgX9gEykv/+mU0Gzwvv7CRmrPQJOqTonsNGBY=
 github.com/ThalesIgnite/crypto11 v1.2.1/go.mod h1:vmlYtalkn8uCp3eStRZ0r7Sslmf1jAtL8De0PIyqPks=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/mastahyeti/certstore v0.0.5 h1:8JV/YC8jN6SD+ocJi46PSdxXfPxwgilJJEA8HnG49ls=
+github.com/mastahyeti/certstore v0.0.5/go.mod h1:NHRRUQaEsIFEo+2nAxmf6oSdjb5g8LJoHx0nyND25G8=
+github.com/mastahyeti/fakeca v0.0.1/go.mod h1:FUs0aY6rbIiAh2dqCkvirZMFXOc3zH1r6ELiNyNy+FQ=
 github.com/mastahyeti/fakeca v0.0.2 h1:WOkGlPLrNc1OEc3heric91Oqj+iZPwdQJNxMXG1GWXI=
 github.com/mastahyeti/fakeca v0.0.2/go.mod h1:FUs0aY6rbIiAh2dqCkvirZMFXOc3zH1r6ELiNyNy+FQ=
 github.com/miekg/pkcs11 v1.0.3-0.20190429190417-a667d056470f h1:eVB9ELsoq5ouItQBr5Tj334bhPJG/MX+m7rTchmzVUQ=

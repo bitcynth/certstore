@@ -29,6 +29,7 @@ func openStore() (*linuxStore, error) {
 	config := &crypto11.Config{
 		Path:       "/usr/lib/x86_64-linux-gnu/pkcs11/opensc-pkcs11.so",
 		SlotNumber: &slot,
+		Pin:        "123456",
 	}
 
 	ctx, err := crypto11.Configure(config)
